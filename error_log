@@ -1,0 +1,276 @@
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 4
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 4
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 4
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 77
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 77
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 79
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 111
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 111
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 111
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 146
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 146
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 146
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 156
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 156
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 156
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 175
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 175
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 175
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 225
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 225
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 227
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 243
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 243
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 243
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 265
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 265
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 267
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 295
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 295
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 295
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 304
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 304
+[05-Jun-2015 16:19:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 304
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 4
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 4
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 4
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 77
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 77
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 79
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 111
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 111
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 111
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 146
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 146
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 146
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 156
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 156
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 156
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 175
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 175
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 175
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 225
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 225
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 227
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 243
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 243
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 243
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 265
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 265
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 267
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 295
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 295
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 295
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 304
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 304
+[05-Jun-2015 16:19:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 304
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 4
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 4
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 4
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 77
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 77
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 79
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 111
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 111
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 111
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 146
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 146
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 146
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 156
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 156
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 156
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 175
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 175
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 175
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 225
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 225
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 227
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 243
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 243
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 243
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 265
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 265
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 267
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 295
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 295
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 295
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 304
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 304
+[05-Jun-2015 16:19:58 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 304
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 4
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 4
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 4
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 77
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 77
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 79
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 111
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 111
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 111
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 146
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 146
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 146
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 156
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 156
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 156
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 175
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 175
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 175
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 225
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 225
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 227
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 243
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 243
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 243
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 265
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 265
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 267
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 295
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 295
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 295
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 304
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 304
+[05-Jun-2015 16:20:01 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 304
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 4
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 4
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 4
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 77
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 77
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 79
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 111
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 111
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 111
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 146
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 146
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 146
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 156
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 156
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 156
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 175
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 175
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 175
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 225
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 225
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 227
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 243
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 243
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 243
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 265
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 265
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 267
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 295
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 295
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 295
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 304
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 304
+[05-Jun-2015 16:20:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 304
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 4
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 4
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 4
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 77
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 77
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 79
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 111
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 111
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 111
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 146
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 146
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 146
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 156
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 156
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 156
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 175
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 175
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 175
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 225
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 225
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 227
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 243
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 243
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 243
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 265
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 265
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 267
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 295
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 295
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 295
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 304
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 304
+[05-Jun-2015 16:21:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 304
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 4
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 4
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 4
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 77
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 77
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 79
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 111
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 111
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 111
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 146
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 146
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 146
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 156
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 156
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 156
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 175
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 175
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 175
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 225
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 225
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 227
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 243
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 243
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 243
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 265
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 265
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 267
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 295
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 295
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 295
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 304
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 304
+[05-Jun-2015 16:21:07 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 304
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 4
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 4
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 4
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 77
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 77
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 79
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 111
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 111
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 111
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 146
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 146
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 146
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 156
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 156
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 156
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 175
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 175
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 175
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 225
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 225
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 227
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 243
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 243
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 243
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 265
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 265
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 267
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 295
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 295
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 295
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/mrtcommunication/public_html/radio/index.php on line 304
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mrtcommunication/public_html/radio/index.php on line 304
+[05-Jun-2015 16:21:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/mrtcommunication/public_html/radio/index.php on line 304
+[09-Jun-2015 23:08:42 UTC] PHP Notice:  Undefined index: id in /home/mrtcommunication/public_html/radio/programs.php on line 244
+[10-Jun-2015 00:11:24 UTC] PHP Notice:  Undefined index: id in /home/mrtcommunication/public_html/radio/menu.php on line 244
+[10-Jun-2015 02:15:12 UTC] PHP Notice:  Undefined index: id in /home/mrtcommunication/public_html/radio/rjdetails.php on line 244
+[13-Aug-2015 18:20:29 UTC] PHP Notice:  Undefined index: id in /home/admin/public_html/radio/menu.php on line 244
+[13-Sep-2015 08:40:18 UTC] PHP Notice:  Undefined index: id in /home/admin/public_html/radio/menu.php on line 244
+[06-Oct-2015 01:26:00 UTC] PHP Notice:  Undefined index: id in /home/admin/public_html/radio/rjdetails.php on line 244
+[08-Oct-2015 21:13:42 UTC] PHP Notice:  Undefined index: id in /home/admin/public_html/radio/programs.php on line 244
+[15-Oct-2015 01:59:50 UTC] PHP Notice:  Undefined index: id in /home/admin/public_html/radio/menu.php on line 244
+[20-Oct-2015 03:10:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/radio/menu.php on line 245
+[20-Oct-2015 03:10:24 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/admin/public_html/radio/menu.php on line 245
+[07-Nov-2015 09:40:46 UTC] PHP Notice:  Undefined index: id in /home/admin/public_html/radio/rjdetails.php on line 244
+[08-Nov-2015 07:31:27 UTC] PHP Notice:  Undefined index: id in /home/admin/public_html/radio/programs.php on line 244

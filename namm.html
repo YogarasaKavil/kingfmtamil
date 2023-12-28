@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Radio Player Widget</title>
+    <style>
+        body {
+            text-align: center;
+            padding: 10px;
+            margin: 0;
+        }
+
+        #radio-player {
+            width: 575px;
+            height: 250px;
+            overflow: hidden;
+            position: relative;
+            margin: 0 auto;
+        }
+
+        audio {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+    </style>
+</head>
+<body>
+    <div id="radio-player">
+        <audio controls>
+            <source src="https://your-radio-stream-url" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+</body>
+</html>
